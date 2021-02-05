@@ -12,7 +12,7 @@ d 1.000000
 illum 1
 map_Kd https://raw.githubusercontent.com/leonxlar/newfield/master/%D0%91%D0%B5%D1%81%D1%88%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%83%D1%80%D0%B0%20%D1%82%D0%BA%D0%B0%D0%BD%D0%B8%20%236687.jpg
 
-newmtl Материал
+newmtl Material1
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
@@ -23,7 +23,7 @@ d 1.000000
 illum 1
 map_Kd https://raw.githubusercontent.com/leonxlar/newfield/master/%D0%91%D0%B5%D1%81%D1%88%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%83%D1%80%D0%B0%20%D1%82%D0%BA%D0%B0%D0%BD%D0%B8%20%236687.jpg
 
-newmtl Материал.001
+newmtl Material2
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
@@ -34,7 +34,7 @@ d 1.000000
 illum 1
 map_Kd https://raw.githubusercontent.com/leonxlar/newfield/master/%D0%91%D0%B5%D1%81%D1%88%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%83%D1%80%D0%B0%20%D1%82%D0%BA%D0%B0%D0%BD%D0%B8%20%236687.jpg
 
-newmtl Материал.003
+newmtl Material3
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
@@ -45,7 +45,7 @@ d 1.000000
 illum 1
 map_Kd https://raw.githubusercontent.com/leonxlar/newfield/master/%D0%91%D0%B5%D1%81%D1%88%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%83%D1%80%D0%B0%20%D1%82%D0%BA%D0%B0%D0%BD%D0%B8%20%236687.jpg
 
-newmtl Материал.004
+newmtl Material4
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
@@ -57,7 +57,7 @@ illum 1
 map_Kd https://raw.githubusercontent.com/leonxlar/newfield/master/%D0%91%D0%B5%D1%81%D1%88%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%83%D1%80%D0%B0%20%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%20%231235.jpg
 map_d https://raw.githubusercontent.com/leonxlar/newfield/master/%D0%91%D0%B5%D1%81%D1%88%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%83%D1%80%D0%B0%20%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%20%231235.jpg
 
-newmtl Материал.005
+newmtl Material5
 Ns 225.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
