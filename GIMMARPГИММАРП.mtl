@@ -10,7 +10,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\larle\\OneDrive\\Рабочий стол\\GlobalProject\\текстуры\\Бесшовная текстура ткани #6687.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/newfield/master/Бесшовная%20текстура%20ткани%20%236687.jpg
 
 newmtl Материал
 Ns 0.000000
@@ -21,7 +21,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\larle\\OneDrive\\Рабочий стол\\GlobalProject\\текстуры\\Бесшовная текстура ткани #6687.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/newfield/master/Бесшовная%20текстура%20ткани%20%236687.jpg
 
 newmtl Материал.001
 Ns 0.000000
@@ -32,7 +32,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\larle\\OneDrive\\Рабочий стол\\GlobalProject\\текстуры\\Бесшовная текстура ткани #6687.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/newfield/master/Бесшовная%20текстура%20ткани%20%236687.jpg
 
 newmtl Материал.003
 Ns 0.000000
@@ -43,7 +43,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\larle\\OneDrive\\Рабочий стол\\GlobalProject\\текстуры\\Бесшовная текстура ткани #6687.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/newfield/master/Бесшовная%20текстура%20ткани%20%236687.jpg
 
 newmtl Материал.004
 Ns 0.000000
@@ -54,8 +54,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\larle\\OneDrive\\Рабочий стол\\GlobalProject\\текстуры\\Бесшовная текстура дерева #1235.jpg
-map_d C:\\Users\\larle\\OneDrive\\Рабочий стол\\GlobalProject\\текстуры\\Бесшовная текстура дерева #1235.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/newfield/master/Бесшовная%20текстура%20дерева%20%231235.jpg
+map_d https://raw.githubusercontent.com/leonxlar/newfield/master/Бесшовная%20текстура%20дерева%20%231235.jpg
 
 newmtl Материал.005
 Ns 225.000000
@@ -66,4 +66,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd C:\\Users\\larle\\OneDrive\\Рабочий стол\\GlobalProject\\текстуры\\Бесшовная текстура ткани #6687.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/newfield/master/Бесшовная%20текстура%20ткани%20%236687.jpg
