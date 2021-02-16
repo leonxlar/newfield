@@ -18,18 +18,17 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20дерева%20%231235.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/middlewood.jpg
 
 newmtl material6
 Ns 225.000000
-Ka 0.645455 0.645455 0.645455
-Kd 0.800000 0.800000 0.800000
+Ka 0.440909 0.440909 0.440909
+Kd 0.018053 0.018053 0.018053
 Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20металла%20%236722.jpg
 
 newmtl material9
 Ns 225.000000
@@ -40,4 +39,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20дерева%20%231235.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/middlewood.jpg
