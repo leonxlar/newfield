@@ -1,5 +1,5 @@
 # Blender MTL File: 'Парма.blend'
-# Material Count: 6
+# Material Count: 7
 
 newmtl Material
 Ns 0.000000
@@ -10,10 +10,20 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20ткани%20%236687.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/grey.jpg
 
-newmtl Material1
-Ns 0.000000
+newmtl Material.001
+Ns 225.000000
+Ka 0.681818 0.681818 0.681818
+Kd 0.329288 0.329288 0.329288
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Material.002
+Ns 225.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
@@ -21,8 +31,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20ткани%20%236687.jpg
-
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/grey.jpg
 newmtl Material2
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -32,10 +41,10 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20ткани%20%236687.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/grey.jpg
 
 newmtl Material3
-Ns 225.000000
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
@@ -43,7 +52,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20ткани%20%236687.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/grey.jpg
 
 newmtl Material4
 Ns 0.000000
@@ -54,14 +63,12 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20ткани%20%236687.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/wood.jpg
 
-newmtl Material5
-Ns 323.999994
-Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
+newmtl None
+Ns 500
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
 illum 2
