@@ -18,7 +18,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20дерева%20%231235.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/darkwood.jpg
 
 newmtl material1
 Ns 225.000000
@@ -29,7 +29,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20дерева%20%231235.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/darkwood.jpg
 
 newmtl material2
 Ns 225.000000
@@ -40,7 +40,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20дерева%20%231235.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/darkwood.jpg
 
 newmtl material3
 Ns 225.000000
@@ -51,7 +51,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20дерева%20%231235.jpg
+map_Kd C:\\Users\\larle\\OneDrive\\Рабочий стол\\GlobalProject\\текстуры\\darkwood.jpg
 
 newmtl material4
 Ns 225.000000
@@ -62,7 +62,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20дерева%20%231235.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/darkwood.jpg
 
 newmtl material6
 Ns 225.000000
@@ -73,7 +73,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20дерева%20%231235.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/darkwood.jpg
 
 newmtl material7
 Ns 225.000000
@@ -84,7 +84,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20дерева%20%231235.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/darkwood.jpg
 
 newmtl material8
 Ns 225.000000
@@ -95,4 +95,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20дерева%20%231235.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/darkwood.jpg
