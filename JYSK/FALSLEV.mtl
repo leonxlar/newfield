@@ -2,7 +2,7 @@
 # Material Count: 7
 
 newmtl material
-Ns 225.000000
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
@@ -10,10 +10,10 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/fabric-texture_(72).jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/grey.jpg
 
 newmtl material1
-Ns 225.000000
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
@@ -21,10 +21,10 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/fabric-texture_(72).jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/grey.jpg
 
 newmtl material2
-Ns 225.000000
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
@@ -32,10 +32,10 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/fabric-texture_(72).jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/grey.jpg
 
 newmtl material3
-Ns 225.000000
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
@@ -43,9 +43,10 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/fabric-texture_(72).jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/grey.jpg
+
 newmtl material4
-Ns 225.000000
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
@@ -53,10 +54,10 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/fabric-texture_(72).jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/grey.jpg
 
 newmtl material5
-Ns 225.000000
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
@@ -64,10 +65,10 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/fabric-texture_(72).jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/grey.jpg
 
 newmtl material6
-Ns 225.000000
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
@@ -75,4 +76,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20дерева%20%231235.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/litewood.jpg

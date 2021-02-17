@@ -2,7 +2,7 @@
 # Material Count: 11
 
 newmtl material
-Ns 225.000000
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
@@ -10,10 +10,10 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20ткани%20%236687.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/grey.jpg
 
 newmtl material1
-Ns 225.000000
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
@@ -21,21 +21,21 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20ткани%20%236687.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/grey.jpg
 
 newmtl material10
-Ns 225.000000
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
-Ks 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
-illum 2
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20ткани%20%236687.jpg
+illum 1
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/darkwood.jpg
 
 newmtl material2
-Ns 225.000000
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
@@ -43,10 +43,10 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20ткани%20%236687.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/grey.jpg
 
 newmtl material3
-Ns 225.000000
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
@@ -54,10 +54,10 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20ткани%20%236687.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/grey.jpg
 
 newmtl material4
-Ns 225.000000
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
@@ -65,10 +65,10 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20ткани%20%236687.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/grey.jpg
 
 newmtl material5
-Ns 225.000000
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
@@ -76,10 +76,10 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20ткани%20%236687.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/grey.jpg
 
 newmtl material6
-Ns 225.000000
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
@@ -87,10 +87,10 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20ткани%20%236687.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/grey.jpg
 
 newmtl material7
-Ns 225.000000
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
@@ -98,10 +98,10 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20ткани%20%236687.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/grey.jpg
 
 newmtl material8
-Ns 225.000000
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
@@ -109,10 +109,10 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20ткани%20%236687.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/grey.jpg
 
 newmtl material9
-Ns 225.000000
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
@@ -120,4 +120,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/Бесшовная%20текстура%20ткани%20%236687.jpg
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/grey.jpg
