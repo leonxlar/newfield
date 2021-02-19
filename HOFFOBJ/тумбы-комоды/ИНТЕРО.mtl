@@ -1,0 +1,45 @@
+# Blender MTL File: 'ИНТЕРО.blend'
+# Material Count: 4
+
+newmtl Material.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/litewood.jpg
+
+newmtl Material.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/litewood.jpg
+
+newmtl Material.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd https://raw.githubusercontent.com/leonxlar/colorfield/master/litewood.jpg
+
+newmtl Material.004
+Ns 0.000000
+Ka 0.236364 0.236364 0.236364
+Kd 0.256519 0.256519 0.256519
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
